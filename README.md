@@ -86,10 +86,10 @@
 
 ###
 
-<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/PADMAPRABHAK)](https://leetcode.com/u/padmaprabhak/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/PADMAPRABHAK)](https://leetcode.com/u/padmaprabhak/)
 
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/padmaprabhak)](https://www.geeksforgeeks.org/user/padmaprabhak/)
-
+<!--
 **padmaprabhak/padmaprabhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
